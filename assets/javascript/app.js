@@ -1,3 +1,17 @@
+
+// <script src="https://www.gstatic.com/firebasejs/3.2.0/firebase.js"></script>
+// <script>
+//   // Initialize Firebase
+//   var config = {
+//     apiKey: "AIzaSyCwHGJ89__9wmomBRmcKcmSThUEjGvhkjU",
+//     authDomain: "communitycodez.firebaseapp.com",
+//     databaseURL: "https://communitycodez.firebaseio.com",
+//     storageBucket: "",
+//   };
+//   firebase.initializeApp(config);
+// </script>
+    
+
 //zcode work in progress
 
 var color = "";
